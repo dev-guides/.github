@@ -7,4 +7,4 @@
 
 Dev-Guides [Code of Conduct](./CODE_OF_CONDUCT.md)
 
-Maintained by [ryancdavison](https://github.com/ryancdavison)
+Maintained by [@ryancdavison](https://github.com/ryancdavison)
